@@ -106,3 +106,8 @@ def playtime(array_of_colors)
 end
 
 playtime(FAVE_COLORS[:aya])
+
+# def playtime
+
+# p jason_colors.each { |i| i = 'black' } what am I doing here?
+p jason_colors
