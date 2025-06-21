@@ -111,3 +111,4 @@ playtime(FAVE_COLORS[:aya])
 
 # p jason_colors.each { |i| i = 'black' } what am I doing here?
 p jason_colors
+#need to get those green marks on my github!
